@@ -1,0 +1,14 @@
+ipykernel
+numpy
+scipy
+scikit-image
+matplotlib
+seaborn
+h5py
+nibabel
+pandas
+pynrrd
+skan
+mayavi
+PyQt5
+jupyter

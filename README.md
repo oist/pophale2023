@@ -12,6 +12,7 @@ This repository hosts the source code used in the paper.
 *  `stitching`: Manual script for non-rigid image alignment. Uses moving_least_squares folder
 *  `utils`: various helper functions
 *  `analysis`: Code for generating figures used in paper and performing final analyses
+*  `example_data`: example Electrophysiology and Pattern Matching data
 
 additional scripts are for running code on an hpc cluster.
 
